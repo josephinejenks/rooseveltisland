@@ -1,4 +1,4 @@
-<script type="text/javascript">
+
 		var stoppedx = ballvx;
 		var stoppedy = ballvy;
 		var boxx = 20;
@@ -99,4 +99,4 @@
 			tid = setInterval(moveball,100);
 			return false;
 		}
-	</script>
+	
